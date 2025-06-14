@@ -30,3 +30,7 @@ Este projeto foi desenvolvido como parte da imersão gratuita **"Do Zero ao Prog
 
 ## 📄 Licença  
 Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
+
+## 🌐 Projeto no ar
+
+🔗 [Clique aqui para acessar o projeto online](https://janaina44.github.io/magick-ia/)
